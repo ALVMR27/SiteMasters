@@ -128,7 +128,7 @@ header {
     }   
 .text p {
         font-size: 1.2rem;
-        color: #000000;
+        color: #cacaca
     }
 .text p span {
         font-size: 1.5rem;
@@ -166,6 +166,7 @@ header {
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
         transition: transform 0.3s ease-in-out;   
         font-weight: bold;
+        
     }
 .plan ul {
         list-style: none;
@@ -200,6 +201,7 @@ header {
 .standard {
         
         background-color: #7fdcf8;
+        
     }
     
 .premium {
