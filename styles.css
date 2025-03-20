@@ -412,7 +412,7 @@ footer {
     display: none;
    }
 }
-@media (max-width: 480px) {
+@media (max-width: 600px){ 
     .itms {
         display: none; /* Oculta el menú al cargar la página */
         flex-direction: column;
